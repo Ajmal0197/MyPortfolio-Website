@@ -3,6 +3,8 @@ export const HERO_CONTENT = `✓ Competent and talented software development pro
 ✓ Knowledge of MERN stack, Next.js. \n
 ✓ Passionate about sharing knowledge through writing blogs.`;
 
+export const PROJECTS = [];
+
 export const EXPERIENCES = [
   {
     year: "2021 - Present",
