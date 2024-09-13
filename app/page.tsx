@@ -6,7 +6,6 @@ import Technologies from "@/components/Technologies";
 
 export default function Home() {
   return (<div><Navbar /><Hero /><Technologies /><Experience />
-    {/* <Projects /> */}
     <Contact />
   </div>);
 }
